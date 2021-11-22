@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 import os
 
-token = 'OTEyMjE0NjI3MTQ2OTI0MTIy.YZssEw.gymK2BoShTQ8Qh-bZBeLgRcvcHs'
 prefixes = 'C!', 'c!'
 
 client = commands.Bot(command_prefix=prefixes)
